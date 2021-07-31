@@ -1,7 +1,7 @@
 # JS_ColorEditor
 
-## [Demo]( https://a120220ms25.github.io/JS_color/)
- https://a120220ms25.github.io/JS_color/
+## [Demo](https://a120220ms25.github.io/JS_ColorEditor/)
+https://a120220ms25.github.io/JS_ColorEditor/
 
 ## 簡介
 
